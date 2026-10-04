@@ -39,7 +39,6 @@ apis:
   - name: Impala Hotel Bookings
     description: "Hotel content, rates and room bookings"
     humanURL: https://docs.impala.travel/docs/booking-api/
-    baseURL: https://docs.impala.travel/docs/booking-api/
     tags:
       - Transportation
     properties:
